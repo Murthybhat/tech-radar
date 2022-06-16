@@ -1,0 +1,377 @@
+[
+ {
+   "name": ".NET Framework (3)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Angular (6)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Asam-XiL (3)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "ASCET6 (5)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "ASCET-DEVELOPER (5)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Automotive Database standrads (3)",
+   "ring": "Experts",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Automotive Ethernet (3)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "AUTOSAR (5)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "AWS (10)",
+   "ring": "Beginners",
+   "quadrant": "Platform"
+ },
+ {
+   "name": "Behave (4)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "C  (14)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "C#(Windows application,WPF) (3)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "C++ (14)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "CAN/CAN-FD (8)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "CANoe (2)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Chai (1)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Chromium (3)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "CMake (13)",
+   "ring": "Beginners",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "conan (9)",
+   "ring": "Beginners",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "Co-Simulation concepts (10)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Cosym (1)",
+   "ring": "Experts",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Cucumber (2)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Data Analytics/Data Science/AI (1)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Docker (10)",
+   "ring": "Beginners",
+   "quadrant": "Platform"
+ },
+ {
+   "name": "Eclipse RCP (10)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "EMF (10)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "FlexRay (3)",
+   "ring": "Experts",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "FMI Standard (12)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "GIT (13)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "gtest, gmock, boost unit test frameworks (5)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Helm (11)",
+   "ring": "Beginners",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "ICE (0)",
+   "ring": "#N/A",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "INCA (5)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "J1939 (4)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Java (31)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Jenkins pipeline (29)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "Jmeter (5)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "KLighD, Draw2d (5)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Kubernetes (11)",
+   "ring": "Beginners",
+   "quadrant": "Platform"
+ },
+ {
+   "name": "LiMa (1)",
+   "ring": "Experts",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "LIN (6)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "LINUX (9)",
+   "ring": "Intermediate",
+   "quadrant": "Platform"
+ },
+ {
+   "name": "Lucene (2)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "MATLAB (1)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "MATLAB SIMULINK (2)",
+   "ring": "Intermediate",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Maven (8)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "MDA8 (4)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Messaging service (Active MQ, Artemis) (13)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Microservices/Springboot (20)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "MS Test (1)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "mscript(matlab) (2)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "NodeJs (3)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "NSIS script (5)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "nuget (1)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "OSGi Services (7)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Plantuml (5)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Protractor (2)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Ptolemy (2)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Python (21)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "React (1)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "REST (6)",
+   "ring": "Intermediate",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "Rest Assured (4)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Selenium (1)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Selenium (4)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Silver (2)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "SOME / IP (3)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "sonar (3)",
+   "ring": "Beginners",
+   "quadrant": "Tools"
+ },
+ {
+   "name": "SQL (Oracle, MySQL, PostGres) (12)",
+   "ring": "Intermediate",
+   "quadrant": "Platform"
+ },
+ {
+   "name": "SWAN (1)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "TCL (1)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Test Automation (4)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Test NG (6)",
+   "ring": "Beginners",
+   "quadrant": "Languages-frameworks"
+ },
+ {
+   "name": "Tracetronic ECU tool (3)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "VEOS (0)",
+   "ring": "Beginners",
+   "quadrant": "Domain/products"
+ },
+ {
+   "name": "Web technologies (Javascript. Typescript, HTML, CSS) (14)",
+   "ring": "Intermediate",
+   "quadrant": "Languages-frameworks"
+ }
+]
